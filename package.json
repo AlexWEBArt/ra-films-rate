@@ -2,8 +2,8 @@
   "name": "ra-films-rate",
   "version": "0.1.0",
   "private": true,
-  "repository": "https://github.com/ra-dropdown-list.git",
-  "homepage": "https://alexwebart.github.io/ra-dropdown-list",
+  "repository": "https://github.com/ra-films-ratet.git",
+  "homepage": "https://alexwebart.github.io/ra-films-rate",
   "author": "AlexWEBArt",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
